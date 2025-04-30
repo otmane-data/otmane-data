@@ -1,9 +1,6 @@
 <h1 align="center">👋 Assalamu Alaykum, I'm Otmane</h1>
 <h3 align="center">🧠 Passionate Data Engineer from Morocco 🇲🇦</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius: 50%;" alt="profile-pic"/>
-</p>
 
 ---
 
