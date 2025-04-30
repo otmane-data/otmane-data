@@ -8,9 +8,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Big+Data+Engineer;ML+%7C+DL+%7C+MLOps+Explorer;Monitoring+with+Grafana+%26+Prometheus;Lover+of+Clean+Code+%26+Open+Source" alt="Typing SVG" />
-</p>
 
 ---
 
