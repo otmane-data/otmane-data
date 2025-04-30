@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=50&lines=👋+Assalamu+Alaykum%2C+I'm+Otmane" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🧠 Passionate Data Engineer from Morocco 🇲🇦</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=👋+Assalamu+Alaykum%2C+I'm+Otmane;🧠+Passionate+Data+Engineer+from+Morocco+🇲🇦" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
