@@ -2,7 +2,7 @@
 <h3 align="center">🧠 A passionate Data Engineer from Morocco 🇲🇦</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="150" style="border-radius: 50%;" />
+  <img src=["https://avatars.githubusercontent.com/u/your_user_id?v=4" width="150" style="border-radius: 50%;"](https://github.com/account) />
 </p>
 
 ---
