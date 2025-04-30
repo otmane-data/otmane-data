@@ -10,11 +10,10 @@
 ### 🚀 About Me
 
 - 🎓 Data Engineering Student @ENSAH  
-- 🤖 Passionate about **Big Data**, **AI**, **Data Pipelines** & **Cloud Infrastructure**  
+- 🤖 Passionate about **Big Data**, **AI**, **Data Pipelines**  
 - 🧪 Currently working on **Dental Pathology Detection using Deep Learning**  
 - 📊 Exploring **Grafana + Prometheus** for monitoring ML apps  
-- ✍️ Writing articles soon on **Medium** & **LinkedIn**  
-- 📫 Reach me at: [otmane.data@gmail.com](mailto:otmane.data@gmail.com)
+- 📫 Reach me at: [aghzarotmane2002@gmail.com]
 
 ---
 
@@ -64,7 +63,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/ton-lien)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat)](mailto:otmane.data@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat)](aghzarotmane2002@gmail.com)
 
 ---
 
