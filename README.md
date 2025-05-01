@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=🧠+Passionate+Data+Engineer+from+Morocco+MA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=👋+Assalamu+Alaykum%2C+I'm+Otmane;🧠+Passionate+Data+Engineer+from+Morocco+🇲🇦" alt="Typing SVG" />
 </p>
+
 
 
 
