@@ -1,9 +1,8 @@
 <h1 align="center">👋 Assalâm Alaykum, I'm <span style="color:#3B82F6;">Aghzar Otmane</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+Data+Engineer;Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+Data+Engineer;Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast" alt="Typing SVG" />
 </p>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -58,56 +57,40 @@
 
 ## 📊 GitHub Stats & Insights
 
-<!-- Stats -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F9826C&center=true&vCenter=true&width=380&lines=📈+My+GitHub+Stats" alt="Typing SVG">
-</h3>
+### 📈 General Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=F9826C" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=F9826C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane-data&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C" width="48%" />
 </p>
 
-<!-- Top Langs -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=380&lines=💻+Most+Used+Languages" alt="Typing SVG">
-</h3>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane-data&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C" width="49%" />
-</p>
-
-<!-- Streak -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=380&lines=🔥+Current+Contribution+Streak" alt="Typing SVG">
-</h3>
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=otmane-data&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
 </p>
 
-<!-- Trophies -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=380&lines=🏆+My+GitHub+Trophies" alt="Typing SVG">
-</h3>
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otmane-data&theme=onedark&margin-w=10&margin-h=15&column=7&no-frame=true" width="99%" />
-</p>
-
-<!-- Graph -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=66FF66&center=true&vCenter=true&width=380&lines=📊+My+Activity+Graph" alt="Typing SVG">
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otmane-data&theme=react-dark&bg_color=0D1117&hide_border=true&color=F9826C&line=F9826C&point=FFFFFF&area=true" width="99%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=otmane-data&theme=onedark&margin-w=10&margin-h=15&column=6&no-frame=true" width="100%" />
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=🚀+Featured+Projects+From+My+Portfolio" alt="Typing SVG">
-</h3>
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otmane-data&theme=react-dark&bg_color=0D1117&hide_border=true&color=F9826C&line=F9826C&point=FFFFFF&area=true" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -148,6 +131,7 @@
   </tr>
 </table>
 
+---
 
 ## 👀 Profile Visitors
 
