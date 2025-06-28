@@ -19,7 +19,6 @@
 - ⚙️ **ETL & Real-time Data Pipelines**
 - ☁️ **Big Data Ecosystems**: Kafka, Spark, Hadoop  
 - 🤖 **AI**: Machine Learning, NLP, Deep Learning  
-- 🛠️ **DevOps & MLOps Practices**  
 - 🧬 **Generative AI** and cutting-edge tech  
 
 ---
