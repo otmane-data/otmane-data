@@ -107,4 +107,4 @@ Tech: Grafana | Prometheus | Docker
 <div align="center">
 https://profile-counter.glitch.me/otmane-data/count.svg
 
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" alt="thank you"/></div> ```
+<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" alt="thank you"/></div> 
