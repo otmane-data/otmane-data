@@ -113,7 +113,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/otmane-data/TelecomPipline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=telecom-big-data-pipeline&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=TelecomPipline&theme=radical&hide_border=true" />
         <br />
         <b>📡 Big Data Pipeline Télécom</b>
       </a>
@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/otmane-data/ETL-Pipline-sante">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=health-etl-pipeline&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=ETL-Pipline-sante&theme=radical&hide_border=true" />
         <br />
         <b>🏥 Health ETL & Analytics</b>
       </a>
@@ -139,7 +139,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/otmane-data/classification-maladies-dentaires">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=dental-pathology-classifier&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=classification-maladies-dentaires&theme=radical&hide_border=true" />
         <br />
         <b>🦷 Dental Pathology Classifier</b>
       </a>
