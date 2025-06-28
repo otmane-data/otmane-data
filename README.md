@@ -43,9 +43,10 @@ I'm passionate about <strong>data processing</strong>, <strong>Big Data pipeline
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph Snake
 
 <img src="https://raw.githubusercontent.com/otmane-data/otmane-data/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
