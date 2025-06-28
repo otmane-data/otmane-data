@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/otmane-data/otmane-data/main/assets/banner.svg" width="100%" />
+  <img src="https://github.com/otmane-data/otmane-data/blob/main/.github/workflows/banner.svg" width="100%" />
 </p>
 
 
