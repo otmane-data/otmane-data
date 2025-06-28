@@ -104,6 +104,50 @@
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=🚀+Featured+Projects+From+My+Portfolio" alt="Typing SVG">
+</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/otmane-data/telecom-big-data-pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=telecom-big-data-pipeline&theme=radical&hide_border=true" />
+        <br />
+        <b>📡 Big Data Pipeline Télécom</b>
+      </a>
+      <p>Kafka, Spark, PostgreSQL, Facturation automatisée</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/otmane-data/health-etl-pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=health-etl-pipeline&theme=radical&hide_border=true" />
+        <br />
+        <b>🏥 Health ETL & Analytics</b>
+      </a>
+      <p>Airflow, MinIO, Superset, Docker, Grafana</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/otmane-data/hotel-review-recommendation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=hotel-review-recommendation&theme=radical&hide_border=true" />
+        <br />
+        <b>🏨 Hotel Review Recommender</b>
+      </a>
+      <p>FastAPI, scikit-learn, Sentiment Analysis, Docker</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/otmane-data/dental-pathology-classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=dental-pathology-classifier&theme=radical&hide_border=true" />
+        <br />
+        <b>🦷 Dental Pathology Classifier</b>
+      </a>
+      <p>PyTorch, Flask, Prometheus, Real-time Monitoring</p>
+    </td>
+  </tr>
+</table>
+
+
 ## 👀 Profile Visitors
 
 <p align="center">
