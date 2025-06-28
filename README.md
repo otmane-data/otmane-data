@@ -52,27 +52,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane-data&layout=compact&theme=radical" height="160" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=F9826C" width="49%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane-data&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C" width="49%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=otmane-data&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="99%" />
+
+  <!-- Trophy Collection -->
+  <img src="https://github-profile-trophy.vercel.app/?username=otmane-data&theme=onedark&margin-w=10&margin-h=15&column=7&no-frame=true" width="99%" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otmane-data&theme=react-dark&bg_color=0D1117&hide_border=true&color=F9826C&line=F9826C&point=FFFFFF&area=true" width="99%" />
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=otmane-data&theme=radical&hide_border=false&border_radius=5" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=otmane-data&theme=radical&no-bg=false&no-frame=true" height="160" />
-</div>
 
----
-
-## 🌐 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otmane-data&theme=react-dark&area=true&hide_border=true" height="300"/>
-</p>
-
----
 
 ## 👀 Profile Visitors
 
