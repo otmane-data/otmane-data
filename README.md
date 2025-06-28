@@ -57,26 +57,52 @@
 
 ## 📊 GitHub Stats & Insights
 
-<div align="center">
+<!-- Stats -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F9826C&center=true&vCenter=true&width=380&lines=📈+My+GitHub+Stats" alt="Typing SVG">
+</h3>
 
-  <!-- GitHub Stats Card -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C&icon_color=F9826C" width="49%" />
+</p>
 
-  <!-- Top Languages Card -->
+<!-- Top Langs -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=380&lines=💻+Most+Used+Languages" alt="Typing SVG">
+</h3>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmane-data&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9826C" width="49%" />
+</p>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=otmane-data&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="99%" />
+<!-- Streak -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFA500&center=true&vCenter=true&width=380&lines=🔥+Current+Contribution+Streak" alt="Typing SVG">
+</h3>
 
-  <!-- Trophy Collection -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=otmane-data&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
+</p>
+
+<!-- Trophies -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=380&lines=🏆+My+GitHub+Trophies" alt="Typing SVG">
+</h3>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=otmane-data&theme=onedark&margin-w=10&margin-h=15&column=7&no-frame=true" width="99%" />
+</p>
 
-  <!-- Activity Graph -->
+<!-- Graph -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=66FF66&center=true&vCenter=true&width=380&lines=📊+My+Activity+Graph" alt="Typing SVG">
+</h3>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otmane-data&theme=react-dark&bg_color=0D1117&hide_border=true&color=F9826C&line=F9826C&point=FFFFFF&area=true" width="99%" />
+</p>
 
-</div>
-
-
+---
 
 ## 👀 Profile Visitors
 
