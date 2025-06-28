@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+Data+Engineer;Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast;Transforming+Data+into+Insights..." alt="Typing SVG" />
 </p>
 
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=otmane-data&style=flat-square&color=blue" alt="Profile Views" />
 </p>
