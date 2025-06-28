@@ -130,8 +130,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/otmane-data/hotel-review-recommendation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=hotel-review-recommendation&theme=radical&hide_border=true" />
+      <a href="https://github.com/otmane-data/analyse-sentiments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=otmane-data&repo=analyse-sentiments&theme=radical&hide_border=true" />
         <br />
         <b>🏨 Hotel Review Recommender</b>
       </a>
