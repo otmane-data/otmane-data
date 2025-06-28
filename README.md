@@ -1,13 +1,16 @@
 <h1 align="center">👋 Assalâm Alaykum, I'm <span style="color:#3B82F6;">Aghzar Otmane</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=👨‍💻+Aspiring+Data+Engineer;🚀+Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+Data+Engineer;Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=otmane-data&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
