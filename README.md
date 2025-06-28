@@ -1,12 +1,8 @@
 <h1 align="center">👋 Assalâm Alaykum, I'm Aghzar Otmane</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Data+Engineer+in+the+Making;AI+%7C+Big+Data+%7C+ML+%7C+NLP+%7C+DL+Enthusiast;Crafting+intelligent+data+solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Aspiring+Data+Engineer;Big+Data+%7C+ML+%7C+DL+%7C+NLP+Enthusiast;Transforming+Data+into+Insights..." alt="Typing SVG" />
 </p>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=otmane-data&style=flat-square&color=blue" alt="Profile Views" />
@@ -14,12 +10,16 @@
 
 ---
 
-### 📌 About Me
+### 🧠 About Me
 
-<p align="left">
-I am <strong>Aghzar Otmane</strong>, currently in my second year of the engineering cycle in <strong>Data Engineering</strong> at <em>ENSA Al Hoceima</em>.<br><br>
-I'm passionate about <strong>data processing</strong>, <strong>Big Data pipelines</strong>, and have a strong interest in <strong>AI technologies</strong>, <strong>data analysis</strong>, and innovative solutions based on <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, <strong>NLP</strong>, and <strong>Generative AI</strong>.
-</p>
+I'm **Aghzar Otmane**, a second-year engineering student in **Data Engineering** at **ENSA Al Hoceima**.
+
+I am passionate about:
+- 🧩 Data Processing & ETL Pipelines  
+- 📊 Big Data Ecosystems (Kafka, Spark, Hadoop)  
+- 🤖 Artificial Intelligence: **Machine Learning, Deep Learning, NLP**  
+- 🌐 Building robust, scalable, and intelligent data-driven solutions  
+- 🧠 Keeping up with the latest in **Generative AI**
 
 ---
 
@@ -31,7 +31,7 @@ I'm passionate about <strong>data processing</strong>, <strong>Big Data pipeline
 
 ---
 
-### 📬 Contact Me
+### 📫 Get in Touch
 
 <div align="left">
   <a href="https://www.linkedin.com/in/otmane-aghzar/" target="_blank">
@@ -48,10 +48,9 @@ I'm passionate about <strong>data processing</strong>, <strong>Big Data pipeline
 
 <img src="https://raw.githubusercontent.com/otmane-data/otmane-data/output/snake.svg" alt="Snake animation" />
 
-
 ---
 
-### 👾 GitHub Stats & Contributions
+### 📊 GitHub Stats & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=otmane-data&show_icons=true&theme=dracula" height="150" />
@@ -71,16 +70,12 @@ I'm passionate about <strong>data processing</strong>, <strong>Big Data pipeline
 
 ---
 
-### 📰 Latest Medium Articles
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=otmane-data&theme=vue-dark" alt="Latest Medium posts" />
-</div>
+### ✨ Inspiration Corner
 
----
+> *"Without data, you're just another person with an opinion."*  
+> — W. Edwards Deming
 
-### 🎉 Fun Zone
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Funny developer gif" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" alt="data science gif" />
+</p>
