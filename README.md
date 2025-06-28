@@ -8,13 +8,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otmane-data&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
-
-
 ### 🧠 About Me
 
 I'm **Aghzar Otmane**, a second-year engineering student in **Data Engineering** at **ENSA Al Hoceima**.
